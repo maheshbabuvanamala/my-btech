@@ -1,0 +1,403 @@
+BODY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	margin: 0px;
+	padding: 0px;
+	background-color: #d7d7d7;
+}
+
+.tdtop {
+	font-size: 11px;
+	/*background-image: url(topbg.jpg);*/
+	background-repeat: repeat-x;
+	height: 96px;
+}
+.toplink {
+	font-size: 11px;
+	color: #0099FF;
+}
+.toplink a {
+	font-size: 11px;
+	color: #0099FF;
+	text-decoration: none;
+}
+.toplink a:hover {
+	color: #000000;
+}
+.navtd {
+	height: 36px;
+	background-color: #c6c3c5;
+}
+.navbg-left {
+	/*background-image: url(navbg-left.jpg);*/
+	background-repeat: no-repeat;
+	width: 200px;
+}
+.navbg {
+	/*background-image: url(navrepbg.jpg);*/
+	background-repeat: repeat-x;
+	height: 36px;
+	color: #FFFFFF;
+	font-size: 13px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.navbg a {
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.youarehere {
+	font-size: 11px;
+	font-family:Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.pageheadings {
+	font-size: 15px;
+	font-family:Arial, Helvetica, sans-serif;
+	color: #bb0f1b;
+	text-decoration: none;
+}
+
+.navbg a:hover {
+	color: #000000;
+}
+.leftnavtop {
+	/*background-image: url(leftnavtop.jpg);*/
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 190px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CACFC9;
+}
+.leftnavbottom {
+	/*background-image: url(leftnavbottom.jpg);*/
+	background-repeat: no-repeat;
+	height: 12px;
+	width: 190px;
+	background-position: right top;
+}
+.leftnav {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.leftnav li a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	padding-left: 15px;
+	background-color: #BB0F1B;
+	height: 20px;
+	line-height: 18px;
+	margin-bottom: 1px;
+}
+.leftnav li a:hover {
+	color: #000000;
+	background-color: #EE313F;
+}
+.vcbghead {
+	background-repeat: no-repeat;
+	height: 31px;
+	width: 229px;
+	font-size: 12px;
+	line-height: 28px;
+	color: #434343;
+	font-weight: bold;
+}
+.conthead {
+	background-repeat: no-repeat;
+	height: 32px;
+	width: 550px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #434343;
+	line-height: 28px;
+}
+.phome {
+	margin: 10px;
+	text-align: justify;
+}
+.more {
+	font-size: 11px;
+	color: #8C0D16;
+}
+.more a {
+	color: #8C0D16;
+}
+.more a:hover {
+	text-decoration: none;
+}
+.imgspace {
+	margin-left: 18px;
+}
+.visionbg {
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 127px;
+}
+.vision {
+	margin-left: 220px;
+	margin-top: 20px;
+}
+h2 {
+	font-size: 18px;
+	color: #8e0813;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.spfont {
+	font-size: 20px;
+}
+.sptxt {
+	font-size: 14px;
+	color: #000000;
+}
+.bottomline {
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #79040D;
+}
+.righthead {
+	/*background-image: url(righthead.jpg);*/
+	background-repeat: no-repeat;
+	height: 33px;
+	font-size: 12px;
+	font-weight: bold;
+	color: #434343;
+	line-height: 25px;
+}
+.list {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 15px;
+}
+.leftbutton {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.leftbutton li a {
+	font-size: 14px;
+	font-weight: normal;
+	color: #990000;
+	text-decoration: none;
+	/*background-image: url(buttonbg.jpg);*/
+	background-repeat: no-repeat;
+	display: block;
+	height: 31px;
+	width: 191px;
+	line-height: 30px;
+	margin-bottom: 5px;
+}
+.leftbutton li a:hover {
+	color: #000000;
+}
+.eventhead {
+	/*background-image: url(eventhead.jpg);*/
+	background-repeat: no-repeat;
+	height: 31px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #434343;
+	line-height: 25px;
+}
+.footerline {
+	/*background-image: url(footerline.jpg);*/
+	background-repeat: repeat-x;
+	height: 9px;
+	background-color: #d7d7d7;
+}
+.footer {
+	background-color: #d7d7d7;
+	height: 50px;
+	color: #870e0e;
+}
+.footer a {
+	color: #870e0e;
+	text-decoration: none;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
+
+a.pagelink:link {color: #a21923; text-decoration:none; font-family:  arial, Helvetica, sans-serif; font-size:12px; font-weight:normal; line-height:16px;  }
+a.pagelink:visited {color: #a21923; text-decoration:none; font-family:  arial, Helvetica, sans-serif; font-size:12px; font-weight:normal;  line-height:16px; }
+a.pagelink:hover {color:#a2415c; text-decoration:none; font-family: arial,  Helvetica, sans-serif; font-size:12px; font-weight:normal;  text-decoration:underline; }
+a.pagelink:active {color: #a21923; text-decoration:none; font-family: arial,  Helvetica, sans-serif; font-size:12px; font-weight:normal;  line-height:16px; }
+
+.pageherder {
+	font-size: 11px;
+	color:#a21923;
+	line-height:16px;
+	font:Arial, Helvetica, sans-serif;
+
+}
+
+
+
+.info {
+	margin: 0px;
+	padding: 0px;
+	width:770px;
+	
+}
+.info ul {
+	color:#990000;
+	list-style-type:disc;
+}
+.info ul li a
+{
+	color: #a21923;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+.info ul li a:hover
+{
+	color: #a2415c;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.info a
+{
+	color: #a21923;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 16px;
+	text-decoration: none;
+}
+.info a:hover
+{
+	color: #a2415c;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.info H3
+{
+	color: #ba0e1a;
+	font-family: arial, Helvetica, sans-serif, Verdana;
+	font-size: 18px;
+	font-weight: bold;
+}
+.cms
+{
+	height:650px;
+	overflow:auto; 
+	padding-right:5px;
+	scrollbar-face-color:#820912;
+	scrollbar-highlight-color:#ffffff;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-darkshadow-color:#ffffff;
+	scrollbar-shadow-color:#ffffff;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-track-color:#f3dfe1;
+}
+
+
+#menu {
+  width: auto;
+  height: 40px;
+  clear: both;
+}
+
+ul#nav {
+  float: left;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  background: #151B54 repeat-x;
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;  
+}
+
+ul#nav li {
+  display: inline;
+}
+
+ul#nav li a {
+  float: left;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 40px;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #880000;
+  margin: 0;
+  padding: 0 11.3px;
+  background: #151B54 repeat-x;
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;     
+}
+
+/* APPLIES THE ACTIVE STATE */
+ul#nav .current a, ul#nav li:hover > a  {
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #330000;
+  background: #616D7E;
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px; 
+}
+
+/* THE SUBMENU LIST HIDDEN BY DEFAULT */
+ul#nav  ul {
+  display: none;
+}
+
+/* WHEN THE FIRST LEVEL MENU ITEM IS HOVERED, THE CHILD MENU APPEARS */
+ul#nav li:hover > ul {
+  position: absolute;
+  display: block;
+  width: 905px;
+  height: 30px;
+  position: absolute;
+  margin: 35px 0 0 0;
+  background: #616D7E repeat-x;  
+  -moz-border-radius-bottomright: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-bottom-left-radius: 10px; 
+}
+
+ul#nav li:hover > ul li a {
+  float: left;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #110000;
+  margin: 0;
+  padding: 0 15px 0 0;
+  background: #616D7E repeat-x; 
+}
+
+ul#nav li:hover > ul li a:hover {
+  color: #F87217;
+  text-decoration: none;
+  text-shadow: none;
+}

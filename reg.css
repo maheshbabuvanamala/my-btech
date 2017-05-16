@@ -1,0 +1,40 @@
+
+textarea{
+background:linear-gradient(left, lightgray 0%,lightgray 100%,white);
+box-shadow:0px 0px 10px gray;
+border:0px solid;
+padding:0px;
+color:black;
+font-weight:bold;
+font-size:12px;
+text-shadow:0px 0px 2px white;
+font-family:Liberation Serif,serif;
+width:400px;}
+
+.lab{
+box-shadow:0px 0px 10px skyblue;
+font-size:18px;
+border-radius-topleft:30px;
+border-radius-bottomright:30px;
+padding:0px 30px;
+background: linear-gradient(left, gray 0%, lightgray 50%,white);
+font-family:Liberation Serif,serif;font-size:14px;}
+
+.img4{
+width:100px;
+height:100px;
+padding:4px;
+border:1px solid gray;
+box-shadow:0px 0px 5px gray;
+cursor:pointer}
+
+input{
+border:1px solid blue;
+border-radius:5px;
+padding:5px;}
+
+optgroup{background:gray;}
+option{background:lightgray;font-family:Liberation Serif,serif;}
+option:hover{background:orange;font-weight:bold;font-family:Liberation Serif,serif;}
+select{background:linear-gradient(left, lightgray 0%,lightgray 100%,white);box-shadow:0px 0px 10px gray;border:0px solid;padding:4px;color:black;font-weight:bold;font-family:Liberation Serif,serif;}
+.submit{background:linear-gradient(right, white 50%, green 50%);border:2px dotted; border-radius:20px;padding:10px 20px;color:pink;font-size:20px;font-weight:bold;}
